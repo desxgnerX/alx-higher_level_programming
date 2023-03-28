@@ -7,7 +7,7 @@ hiding.
 
 ## Tests :heavy_check_mark:
 
-* [tests](./tests): Folder of test files. Provided by Holberton School.
+* [tests](./tests): Folder of test files.
 
 ## Tasks :page_with_curl:
 
@@ -99,4 +99,4 @@ hiding.
 
 * **10. ByteCode -> Python #5**
   * [103-magic_class.py](./103-magic_class.py): Python function matching exactly a bytecode
-  provided by Holberton School.
+  provided.
