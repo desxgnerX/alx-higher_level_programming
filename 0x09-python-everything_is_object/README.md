@@ -7,7 +7,7 @@ single-line `.txt` files.
 
 ## Tests :heavy_check_mark:
 
-* [tests](./tests): Folder of test files. Provided by Holberton School.
+* [tests](./tests): Folder of test files.
 
 ## Tasks :page_with_curl:
 
@@ -239,7 +239,7 @@ a is b
 
 * **29. #pythonic**
   * [100-magic_string.py](./100-magic_string.py): Python function `magic_string()` that returns the
-string `"Holberton"` n times the number of iteration.
+string `"BestSchool"` n times the number of iteration.
 
 * **30. Low memory cost**
   * [101-locked_class.py](./101-locked_class.py): Python class `LockedClass` with no attributes that
@@ -296,9 +296,9 @@ to by `b` deleted?
   * [106-line5.txt](./106-line5.txt): How many `str` objects are created by the execution
 of the last line in this script?
 ```
-a = "HBTN"
-b = "HBTN"
+a = "SCHL"
+b = "SCHL"
 del a
 del b
-c = "HBTN"
+c = "SCHL"
 ```
